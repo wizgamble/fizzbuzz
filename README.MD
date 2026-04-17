@@ -1,0 +1,1 @@
+Welcome! Please check config.js always before you make pull requests. 😊
